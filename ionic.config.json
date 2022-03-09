@@ -1,0 +1,7 @@
+{
+  "name": "visualdeveloper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
